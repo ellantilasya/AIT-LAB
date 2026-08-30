@@ -1,0 +1,10 @@
+  TO PRINT A NAME 
+
+name = "lasya"
+print("lasya")
+
+  TO PRINT A NAME 5 TIMES
+
+name = "lasya"
+for i in range(5):
+    print("lasya")
